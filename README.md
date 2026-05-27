@@ -13,6 +13,7 @@ The application allows users to:
 
 # Features
 
+
 1. User Registration  
 2.User Login  
 3.Password Hashing using bcrypt  
