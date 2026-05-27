@@ -13,15 +13,15 @@ The application allows users to:
 
 # Features
 
-✅ User Registration  
-✅ User Login  
-✅ Password Hashing using bcrypt  
-✅ JWT Token Generation  
-✅ Protected Routes using JWT  
-✅ Role-Based Authorization  
-✅ SQLite Database Integration  
-✅ Input Validations  
-✅ Admin/User Roles  
+1. User Registration  
+2.User Login  
+3.Password Hashing using bcrypt  
+4.JWT Token Generation  
+5.Protected Routes using JWT  
+6.Role-Based Authorization  
+7.SQLite Database Integration  
+8.Input Validations  
+9.Admin/User Roles  
 
 ---
 
